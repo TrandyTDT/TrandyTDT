@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrandyTDT
-- 🌱 I’m currently learning Node.js and Next.js
+- 🌱 Next.js
 
 Currently working as a Fullstack web developer
 
